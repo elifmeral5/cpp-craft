@@ -1,0 +1,7 @@
+*.cpp~
+*.h~
+*.o
+*.exe
+proj5 # if proj5 is a compiled binary
+vgcore.* # crash dump files
+mtest # test binaries if any
